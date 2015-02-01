@@ -6,3 +6,6 @@ This is just a rough cut. If you make some improvements, let me know!
 ## Usage
 - Get [BetterFindBuffer](https://github.com/aziz/BetterFindBuffer).
 - Copy this theme to your User folder and follow [these instructions](https://github.com/aziz/BetterFindBuffer).
+
+## Screenshot
+Looks like this: ![image](screenshots/screenshot.png)
